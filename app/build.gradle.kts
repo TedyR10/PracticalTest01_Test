@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "lab03.eim.systems.cs.pub.practicaltest01_test"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "lab03.eim.systems.cs.pub.practicaltest01_test"
-        minSdk = 16
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
